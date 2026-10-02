@@ -17,3 +17,7 @@ pytest tests/ -v
 ## CI/CD
 GitHub Actions арқылы әр push кезінде 5 unit-тест автоматты іске қосылады.
 Pipeline: Build → Test
+## Авторы
+Студент: Аты-Жөніңіз
+Топ: ...
+Нұсқа: 42
